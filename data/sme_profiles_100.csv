@@ -1,0 +1,101 @@
+id,name,role,bio,expertise,availability,engagement_type
+1,Morgan Kim,Product Manager,10+ years experience in building scalable products.,"SaaS,Fintech,AI","['Fri 9AM', 'Thu 5PM']",paid
+2,Sam Garcia,Product Manager,Worked on 3 B2B SaaS startups across roles.,"SaaS,Fintech,AI","['Fri 9AM', 'Tue 10AM', 'Wed 1PM']",free
+3,Devin Brown,Growth Hacker,Mentor at multiple accelerators and incubators.,"Cybersecurity,Infrastructure","['Wed 1PM', 'Fri 9AM']",free
+4,Jamie Wilson,CTO,Built and exited a healthtech startup in 2020.,"Cybersecurity,Infrastructure","['Thu 5PM', 'Fri 9AM', 'Mon 3PM']",free
+5,Morgan Kim,Growth Hacker,Built and exited a healthtech startup in 2020.,"Edtech,Growth,Onboarding","['Fri 9AM', 'Thu 5PM']",paid
+6,Jordan Garcia,Founder,10+ years experience in building scalable products.,"Edtech,Growth,Onboarding",['Mon 3PM'],paid
+7,Taylor Wilson,UX Designer,10+ years experience in building scalable products.,"AgTech,CleanTech,Sustainability","['Thu 5PM', 'Tue 10AM', 'Fri 9AM']",free
+8,Casey Davis,Growth Hacker,"Worked at FAANG, focusing on ML and infra.","Hardware,IoT,ML","['Wed 1PM', 'Thu 5PM', 'Tue 10AM']",free
+9,Taylor Lee,UX Designer,Experienced in user research and design systems.,"Edtech,Growth,Onboarding","['Fri 9AM', 'Wed 1PM']",free
+10,Sam Brown,Tech Lead,Mentor at multiple accelerators and incubators.,"Hardware,IoT,ML",['Wed 1PM'],paid
+11,Casey Wilson,Founder,Experienced in user research and design systems.,"Hardware,IoT,ML","['Tue 10AM', 'Wed 1PM', 'Fri 9AM']",free
+12,Casey Wilson,Tech Lead,Built and exited a healthtech startup in 2020.,"Healthtech,UX,Mobile","['Mon 3PM', 'Fri 9AM']",paid
+13,Taylor Lee,Product Manager,Specialist in fintech compliance and blockchain.,"SaaS,Fintech,AI","['Mon 3PM', 'Wed 1PM']",free
+14,Cameron Wilson,Engineer,Ex-Google PM with background in marketplaces.,"Marketplaces,Product Strategy,Scaling","['Wed 1PM', 'Tue 10AM', 'Thu 5PM']",free
+15,Casey Kim,CTO,Specialist in fintech compliance and blockchain.,"Cybersecurity,Infrastructure","['Mon 3PM', 'Thu 5PM', 'Fri 9AM']",paid
+16,Casey Brown,Growth Hacker,Specialist in fintech compliance and blockchain.,"Healthtech,UX,Mobile","['Wed 1PM', 'Mon 3PM']",paid
+17,Morgan Garcia,UX Designer,10+ years experience in building scalable products.,"Healthtech,UX,Mobile","['Mon 3PM', 'Thu 5PM']",paid
+18,Casey Garcia,Product Manager,Worked on 3 B2B SaaS startups across roles.,"Healthtech,UX,Mobile",['Thu 5PM'],paid
+19,Cameron Wilson,Engineer,Ex-Google PM with background in marketplaces.,"Healthtech,UX,Mobile","['Mon 3PM', 'Wed 1PM']",free
+20,Jamie Kim,AI Researcher,Specialist in fintech compliance and blockchain.,"SaaS,Fintech,AI",['Thu 5PM'],paid
+21,Devin Wilson,Product Manager,Ex-Google PM with background in marketplaces.,"Hardware,IoT,ML","['Tue 10AM', 'Fri 9AM']",free
+22,Cameron Wilson,CTO,Specialist in fintech compliance and blockchain.,"AgTech,CleanTech,Sustainability","['Thu 5PM', 'Wed 1PM', 'Fri 9AM']",free
+23,Devin Miller,Founder,Experienced in user research and design systems.,"SaaS,Fintech,AI",['Mon 3PM'],free
+24,Riley Wilson,CTO,Built and exited a healthtech startup in 2020.,"B2B,B2C,Startups","['Mon 3PM', 'Wed 1PM', 'Tue 10AM']",free
+25,Jordan Kim,CTO,Ex-Google PM with background in marketplaces.,"Edtech,Growth,Onboarding","['Thu 5PM', 'Fri 9AM']",free
+26,Riley Patel,Growth Hacker,Worked on 3 B2B SaaS startups across roles.,"Hardware,IoT,ML",['Wed 1PM'],free
+27,Taylor Lee,Growth Hacker,10+ years experience in building scalable products.,"Hardware,IoT,ML","['Wed 1PM', 'Fri 9AM']",paid
+28,Devin Wilson,Tech Lead,"Worked at FAANG, focusing on ML and infra.","SaaS,Fintech,AI",['Thu 5PM'],free
+29,Taylor Brown,CTO,Mentor at multiple accelerators and incubators.,"Healthtech,UX,Mobile","['Thu 5PM', 'Tue 10AM']",free
+30,Alex Smith,CTO,Ex-Google PM with background in marketplaces.,"Healthtech,UX,Mobile","['Fri 9AM', 'Mon 3PM']",free
+31,Morgan Garcia,UX Designer,"Worked at FAANG, focusing on ML and infra.","AgTech,CleanTech,Sustainability","['Wed 1PM', 'Tue 10AM']",paid
+32,Devin Miller,Product Manager,Built and exited a healthtech startup in 2020.,"Marketplaces,Product Strategy,Scaling","['Fri 9AM', 'Tue 10AM']",paid
+33,Jordan Davis,Founder,Ex-Google PM with background in marketplaces.,"Hardware,IoT,ML","['Tue 10AM', 'Wed 1PM', 'Mon 3PM']",free
+34,Sam Smith,Engineer,Experienced in user research and design systems.,"AgTech,CleanTech,Sustainability","['Thu 5PM', 'Fri 9AM', 'Wed 1PM']",free
+35,Cameron Miller,Founder,Specialist in fintech compliance and blockchain.,"Healthtech,UX,Mobile","['Mon 3PM', 'Fri 9AM']",free
+36,Jamie Kim,Tech Lead,Worked on 3 B2B SaaS startups across roles.,"B2B,B2C,Startups","['Wed 1PM', 'Mon 3PM', 'Tue 10AM']",free
+37,Riley Brown,Product Manager,Built and exited a healthtech startup in 2020.,"Hardware,IoT,ML","['Mon 3PM', 'Fri 9AM', 'Wed 1PM']",paid
+38,Morgan Miller,Tech Lead,Built and exited a healthtech startup in 2020.,"Marketplaces,Product Strategy,Scaling",['Thu 5PM'],free
+39,Taylor Lee,UX Designer,Worked on 3 B2B SaaS startups across roles.,"AgTech,CleanTech,Sustainability","['Wed 1PM', 'Fri 9AM', 'Mon 3PM']",free
+40,Alex Wilson,Product Manager,10+ years experience in building scalable products.,"SaaS,Fintech,AI",['Fri 9AM'],free
+41,Jamie Miller,AI Researcher,Ex-Google PM with background in marketplaces.,"Cybersecurity,Infrastructure",['Tue 10AM'],paid
+42,Sam Miller,Growth Hacker,10+ years experience in building scalable products.,"SaaS,Fintech,AI",['Wed 1PM'],free
+43,Morgan Brown,Growth Hacker,10+ years experience in building scalable products.,"Cybersecurity,Infrastructure",['Fri 9AM'],paid
+44,Casey Garcia,CTO,Ex-Google PM with background in marketplaces.,"Hardware,IoT,ML","['Tue 10AM', 'Fri 9AM']",free
+45,Riley Smith,Product Manager,Mentor at multiple accelerators and incubators.,"Edtech,Growth,Onboarding","['Wed 1PM', 'Tue 10AM']",free
+46,Sam Lee,Growth Hacker,Worked on 3 B2B SaaS startups across roles.,"Hardware,IoT,ML",['Mon 3PM'],free
+47,Morgan Miller,Product Manager,Built and exited a healthtech startup in 2020.,"Hardware,IoT,ML","['Thu 5PM', 'Tue 10AM', 'Mon 3PM']",paid
+48,Cameron Garcia,Engineer,10+ years experience in building scalable products.,"Cybersecurity,Infrastructure","['Mon 3PM', 'Tue 10AM']",paid
+49,Riley Miller,Growth Hacker,10+ years experience in building scalable products.,"Hardware,IoT,ML","['Thu 5PM', 'Tue 10AM', 'Mon 3PM']",free
+50,Morgan Davis,Product Manager,Experienced in user research and design systems.,"Healthtech,UX,Mobile","['Fri 9AM', 'Wed 1PM', 'Mon 3PM']",paid
+51,Sam Brown,AI Researcher,"Worked at FAANG, focusing on ML and infra.","SaaS,Fintech,AI",['Thu 5PM'],paid
+52,Alex Kim,Tech Lead,Worked on 3 B2B SaaS startups across roles.,"Hardware,IoT,ML","['Fri 9AM', 'Wed 1PM']",free
+53,Jordan Smith,Growth Hacker,10+ years experience in building scalable products.,"Marketplaces,Product Strategy,Scaling","['Fri 9AM', 'Thu 5PM', 'Mon 3PM']",paid
+54,Sam Davis,AI Researcher,Worked on 3 B2B SaaS startups across roles.,"Hardware,IoT,ML","['Wed 1PM', 'Mon 3PM', 'Thu 5PM']",paid
+55,Casey Martinez,AI Researcher,Built and exited a healthtech startup in 2020.,"SaaS,Fintech,AI","['Fri 9AM', 'Thu 5PM', 'Mon 3PM']",paid
+56,Casey Kim,AI Researcher,Worked on 3 B2B SaaS startups across roles.,"B2B,B2C,Startups",['Thu 5PM'],free
+57,Morgan Wilson,UX Designer,"Worked at FAANG, focusing on ML and infra.","Marketplaces,Product Strategy,Scaling","['Mon 3PM', 'Thu 5PM']",free
+58,Morgan Smith,Growth Hacker,10+ years experience in building scalable products.,"Healthtech,UX,Mobile","['Mon 3PM', 'Tue 10AM']",paid
+59,Morgan Miller,Growth Hacker,Built and exited a healthtech startup in 2020.,"Hardware,IoT,ML",['Fri 9AM'],paid
+60,Devin Patel,Founder,"Worked at FAANG, focusing on ML and infra.","Cybersecurity,Infrastructure",['Tue 10AM'],paid
+61,Cameron Miller,CTO,Mentor at multiple accelerators and incubators.,"AgTech,CleanTech,Sustainability",['Tue 10AM'],paid
+62,Cameron Miller,Product Manager,Specialist in fintech compliance and blockchain.,"Cybersecurity,Infrastructure","['Mon 3PM', 'Wed 1PM']",paid
+63,Casey Martinez,Founder,Ex-Google PM with background in marketplaces.,"SaaS,Fintech,AI",['Fri 9AM'],free
+64,Alex Wilson,Product Manager,"Worked at FAANG, focusing on ML and infra.","SaaS,Fintech,AI","['Wed 1PM', 'Fri 9AM', 'Tue 10AM']",free
+65,Casey Davis,UX Designer,Mentor at multiple accelerators and incubators.,"B2B,B2C,Startups",['Mon 3PM'],paid
+66,Morgan Garcia,AI Researcher,"Worked at FAANG, focusing on ML and infra.","Cybersecurity,Infrastructure","['Wed 1PM', 'Fri 9AM', 'Tue 10AM']",paid
+67,Taylor Patel,Engineer,10+ years experience in building scalable products.,"Marketplaces,Product Strategy,Scaling",['Wed 1PM'],free
+68,Morgan Lee,Engineer,Specialist in fintech compliance and blockchain.,"Cybersecurity,Infrastructure",['Fri 9AM'],free
+69,Casey Smith,Tech Lead,10+ years experience in building scalable products.,"Edtech,Growth,Onboarding","['Tue 10AM', 'Fri 9AM']",free
+70,Jordan Garcia,Growth Hacker,10+ years experience in building scalable products.,"AgTech,CleanTech,Sustainability","['Fri 9AM', 'Thu 5PM', 'Wed 1PM']",paid
+71,Cameron Miller,Founder,Mentor at multiple accelerators and incubators.,"SaaS,Fintech,AI",['Tue 10AM'],free
+72,Jamie Lee,Growth Hacker,Ex-Google PM with background in marketplaces.,"Healthtech,UX,Mobile","['Wed 1PM', 'Thu 5PM', 'Tue 10AM']",free
+73,Devin Martinez,CTO,Ex-Google PM with background in marketplaces.,"Hardware,IoT,ML","['Mon 3PM', 'Fri 9AM', 'Thu 5PM']",paid
+74,Jordan Brown,Engineer,Experienced in user research and design systems.,"Edtech,Growth,Onboarding",['Tue 10AM'],free
+75,Riley Wilson,Growth Hacker,10+ years experience in building scalable products.,"SaaS,Fintech,AI",['Mon 3PM'],paid
+76,Jamie Miller,Tech Lead,Built and exited a healthtech startup in 2020.,"Cybersecurity,Infrastructure","['Thu 5PM', 'Tue 10AM', 'Mon 3PM']",free
+77,Sam Martinez,CTO,Ex-Google PM with background in marketplaces.,"Edtech,Growth,Onboarding","['Wed 1PM', 'Tue 10AM', 'Fri 9AM']",paid
+78,Morgan Brown,Product Manager,Specialist in fintech compliance and blockchain.,"Cybersecurity,Infrastructure","['Tue 10AM', 'Fri 9AM', 'Wed 1PM']",paid
+79,Alex Davis,Product Manager,Mentor at multiple accelerators and incubators.,"Hardware,IoT,ML","['Tue 10AM', 'Fri 9AM']",paid
+80,Morgan Lee,UX Designer,Experienced in user research and design systems.,"Cybersecurity,Infrastructure",['Thu 5PM'],free
+81,Morgan Lee,CTO,Experienced in user research and design systems.,"AgTech,CleanTech,Sustainability",['Wed 1PM'],free
+82,Jordan Patel,UX Designer,10+ years experience in building scalable products.,"SaaS,Fintech,AI",['Wed 1PM'],paid
+83,Morgan Davis,Product Manager,Experienced in user research and design systems.,"Marketplaces,Product Strategy,Scaling","['Mon 3PM', 'Wed 1PM', 'Fri 9AM']",paid
+84,Sam Kim,Engineer,Built and exited a healthtech startup in 2020.,"Hardware,IoT,ML","['Mon 3PM', 'Thu 5PM']",paid
+85,Cameron Wilson,Engineer,Worked on 3 B2B SaaS startups across roles.,"B2B,B2C,Startups",['Wed 1PM'],free
+86,Morgan Patel,Tech Lead,Experienced in user research and design systems.,"AgTech,CleanTech,Sustainability","['Fri 9AM', 'Mon 3PM']",paid
+87,Taylor Miller,CTO,Specialist in fintech compliance and blockchain.,"Hardware,IoT,ML","['Wed 1PM', 'Fri 9AM', 'Tue 10AM']",paid
+88,Morgan Garcia,Tech Lead,Ex-Google PM with background in marketplaces.,"B2B,B2C,Startups","['Thu 5PM', 'Wed 1PM', 'Mon 3PM']",free
+89,Riley Davis,Growth Hacker,Specialist in fintech compliance and blockchain.,"Cybersecurity,Infrastructure",['Mon 3PM'],paid
+90,Devin Patel,AI Researcher,Ex-Google PM with background in marketplaces.,"Edtech,Growth,Onboarding","['Mon 3PM', 'Wed 1PM', 'Tue 10AM']",free
+91,Jamie Wilson,Tech Lead,Mentor at multiple accelerators and incubators.,"SaaS,Fintech,AI",['Tue 10AM'],paid
+92,Riley Miller,Engineer,Specialist in fintech compliance and blockchain.,"Hardware,IoT,ML","['Wed 1PM', 'Thu 5PM']",paid
+93,Cameron Miller,Tech Lead,Experienced in user research and design systems.,"B2B,B2C,Startups","['Tue 10AM', 'Mon 3PM']",free
+94,Alex Wilson,Engineer,"Worked at FAANG, focusing on ML and infra.","Cybersecurity,Infrastructure",['Fri 9AM'],paid
+95,Riley Kim,Growth Hacker,Mentor at multiple accelerators and incubators.,"Marketplaces,Product Strategy,Scaling",['Tue 10AM'],paid
+96,Alex Martinez,CTO,Mentor at multiple accelerators and incubators.,"SaaS,Fintech,AI",['Tue 10AM'],paid
+97,Casey Brown,Tech Lead,Specialist in fintech compliance and blockchain.,"Healthtech,UX,Mobile","['Wed 1PM', 'Tue 10AM', 'Fri 9AM']",free
+98,Jamie Davis,CTO,Ex-Google PM with background in marketplaces.,"Healthtech,UX,Mobile",['Wed 1PM'],free
+99,Alex Wilson,AI Researcher,"Worked at FAANG, focusing on ML and infra.","AgTech,CleanTech,Sustainability","['Tue 10AM', 'Wed 1PM', 'Mon 3PM']",paid
+100,Devin Garcia,Founder,Built and exited a healthtech startup in 2020.,"Hardware,IoT,ML",['Mon 3PM'],paid
