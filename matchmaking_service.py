@@ -20,7 +20,7 @@ st.set_page_config(
 
 # ─── Constants ────────────────────────────────────────────────────────
 EMBED_MODEL_ID = "amazon.titan-embed-text-v2:0"
-CSV_PATH = "data\profiles_cleaned_tags - profiles_cleaned_tags.csv.csv"  # Updated path for Streamlit
+CSV_PATH = "data\updated_profiles.csv"  # Updated path for Streamlit
 TOP_K_RETRIEVE = 20
 TOP_K_RETURN = 10
 FAISS_M = 32
