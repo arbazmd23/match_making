@@ -19,14 +19,13 @@ st.set_page_config(
 )
 
 # ─── Constants ────────────────────────────────────────────────────────
-REGION = "ap-south-1"
 EMBED_MODEL_ID = "amazon.titan-embed-text-v2:0"
-CSV_PATH = "data/sme_profiles (2).csv"  # Updated path for Streamlit
+CSV_PATH = "data\\profiles_cleaned_tags - profiles_cleaned_tags.csv.csv"  # Updated path for Streamlit
 TOP_K_RETRIEVE = 20
 TOP_K_RETURN = 10
 FAISS_M = 32
 FAISS_EF_SEARCH = 128
-CLAUDE_MODEL_ID = "claude-3-5-sonnet-20241022"
+CLAUDE_MODEL_ID = "claude-3-5-haiku-20241022"
 DIM = 1024
 
 # ─── Logging Setup ───────────────────────────────────────────────────
